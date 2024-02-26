@@ -1,0 +1,14 @@
+[
+  { "id": 1, "fname": "yomna", "lname": "khaled", "age": 21, "city": "cairo" },
+  { "id": 3, "fname": "nour", "lname": "amir", "age": 22, "city": "cairox" },
+  { "id": 5, "fname": "asmaa", "lname": "rahy", "age": 20, "city": "monofia" },
+  { "id": 7, "fname": "isam", "lname": "samir", "age": 30, "city": "siwa" },
+  {
+    "id": 9,
+    "fname": "abdelrahman",
+    "lname": "amr",
+    "age": 25,
+    "city": "cairo"
+  },
+  { "id": 10, "fname": "omar", "lname": "adel", "age": 27, "city": "tanta" }
+]
